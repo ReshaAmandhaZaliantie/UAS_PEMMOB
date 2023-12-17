@@ -1,7 +1,10 @@
-<<<<<<< HEAD
+Screen Shoot Hasil Codingan
+
+![Android Emulator - Pixel_5_API_30_5554 17_12_2023 14_15_15](https://github.com/ReshaAmandhaZaliantie/UAS_PEMMOB/assets/118887216/070d3a12-7e98-44c5-86e5-8d092ea7ad1d)
+
+
 # UAS_PemrogramanMobile
-=======
-<<<<<<< HEAD
+
 # pemmobile
 
 A new Flutter project.
